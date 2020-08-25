@@ -2,7 +2,7 @@
 
 This repo is the collection of reading lists in building  Myanmar(Burmese) Question and Answering System. 
 
-1. A nice explanation of builiding Q & A model
+1. A nice explanation of builiding Q & A model | 
 Here is the link - https://towardsdatascience.com/nlp-building-a-question-answering-model-ed0529a68c54 
 
 2. One of the Reference given by above explanation - BI-DIRECTIONAL ATTENTION FLOW FOR MACHINE COMPREHENSION (BiDAF Model)  
