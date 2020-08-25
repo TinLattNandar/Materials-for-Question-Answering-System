@@ -9,4 +9,4 @@ Here is the link - https://towardsdatascience.com/nlp-building-a-question-answer
 Here is the link - https://arxiv.org/abs/1611.01603 
 
 3. One of the Reference given by above explanation - CS224N: Natural Language Processing with Deep Learning | Winter 2019   
-Here is the link - https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z
+CS224N course guides me a lot. Here is the link - https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z
